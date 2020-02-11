@@ -1,8 +1,3 @@
-# Portfolio
-My portfolio
-mtcars
-================
-
 The goal of this exploratory data analysis is to extract some trends
 from this dataset as well as to explain all of the code used to do so.
 This can serve as a learning resource for those who want to learn r as
